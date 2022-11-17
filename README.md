@@ -1,0 +1,1 @@
+# Django_color_picker
